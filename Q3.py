@@ -40,7 +40,7 @@ def main():
 main()
 
 # Q: Can you explain why the difference takes this value?
-# A: Because we simply added 5 of each element in the array to x2 so the mean would increase by 5
+# A: Because we simply added 5 to each element in the array to x2 so the mean would increase by 5
 
 # What is the relationship between the sample means of 'x1', 'x2', and 'x'?
 # A: x2 - 5 = x1, x2 - 2.5 = x
